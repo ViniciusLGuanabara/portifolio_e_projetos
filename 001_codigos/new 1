@@ -1,0 +1,30 @@
+CONTATOS
+
+Arthur110609%guanabara
+
+RENAO ELHO: www.linkdin.com/in/renatoellho - www.github.com/renatoellho
+
+CRIANDO UM PORTIFÓLIO NO GITHUB
+
+APRESENTAÇÃO DO GIT
+	INTERFACES GRÁFICAS
+		SOURCETREE
+	
+	TERMINAL
+		GIT BASH - https://gitforwindows.org
+		
+	COMANDOS GIT
+		Git clone - replica projetos online para um diretório local
+		Git status - verifica se esxistem alterações em arquivos e/ou diretórios
+		Git add - mapeia as alterações existentes
+		Git commit - cria um pacote/lote com as alterações
+		Git push - envia as alterações locais para um diretório online
+		Git pull - baixa as alterações online para um diretório local
+		Git log - lista todos os commits feitos no projeto
+		entre outros - https://git-scm.com/docs
+		
+		ls -la -- lista todos os diretórios da máquina.
+		cd - acessar um diretório
+		
+	
+	
